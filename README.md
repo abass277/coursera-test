@@ -1,3 +1,6 @@
-!Hello coursera 
-!Hello my beloved programmers
-I am just getting started
+Hello coursera !
+Hi Humans!
+Hello my beloved programmers!
+Abass is here , I like programming and that is what I am made of!
+I am just getting started!
+
